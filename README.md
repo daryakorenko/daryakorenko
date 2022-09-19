@@ -3,12 +3,14 @@
 
 Тестировала учебное веб-приложение Яндекс Маршруты
 
-[- техники тест-дизайна, функциональность полей ввода](https://docs.google.com/spreadsheets/d/18ozlLJiPzSUOh3Sp4LqvxoTxugp4mWnM2lY-2iTDQvc/edit#gid=2010888140)  
-логика расчёта времени и стоимости поездки
+- [техники тест-дизайна, функциональность полей ввода](https://docs.google.com/spreadsheets/d/18ozlLJiPzSUOh3Sp4LqvxoTxugp4mWnM2lY-2iTDQvc/edit#gid=2010888140)  
+- [логика расчёта времени и стоимости поездки](https://docs.google.com/spreadsheets/d/18ozlLJiPzSUOh3Sp4LqvxoTxugp4mWnM2lY-2iTDQvc/edit#gid=1058266973)
 
+Тестировала учебное веб-приложение Яндекс Маршруты
 
-Тестировала учебное веб-приложение Яндекс Маршруты: проверка верстки формы бронирования, проверка логики работы отдельных функциональностей, кроссбраузерное тестирование, баг-трекинг, Charles. 
-[Примеры чек-листов и тест-кейсов](https://docs.google.com/spreadsheets/d/1rBhoXWm32_9gay4B-ErCTZ3vZjzzm_SWBJt7BvovmlY/edit?usp=sharing)
+- проверка верстки формы бронирования, проверка логики работы отдельных функциональностей, кроссбраузерное тестирование, баг-трекинг: [чек-лист](https://docs.google.com/spreadsheets/d/1rBhoXWm32_9gay4B-ErCTZ3vZjzzm_SWBJt7BvovmlY/edit#gid=899462569), [чек-лист](https://docs.google.com/spreadsheets/d/1rBhoXWm32_9gay4B-ErCTZ3vZjzzm_SWBJt7BvovmlY/edit#gid=1540435533), [тест-кейс](https://docs.google.com/spreadsheets/d/1rBhoXWm32_9gay4B-ErCTZ3vZjzzm_SWBJt7BvovmlY/edit#gid=1567345705), [тест-кейс](https://docs.google.com/spreadsheets/d/1rBhoXWm32_9gay4B-ErCTZ3vZjzzm_SWBJt7BvovmlY/edit#gid=94813143)
+Charles. 
+
 
 Тестировала мобильного приложения Яндекс Метро: Android Studio, инсталляционное тестирование, проверка обновления, проверка логики и верстки
 Тестировала функциональность бэкенда Яндекс Прилавка с помощью API: работа с документацией в Apidoc, Postman.
