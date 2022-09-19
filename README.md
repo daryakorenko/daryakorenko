@@ -21,4 +21,4 @@
 - [проверка функциональности бэкенда Яндекс Прилавка с помощью API, работа с документацией в Apidoc, Postman](https://docs.google.com/spreadsheets/d/19OidkYQ2Bo7S26d2Hu1O-xy_oSFax0K-w2k1HT-QuHc/edit#gid=2006427015).
 
 Работа с логами и БД такси: консоль, подключение к удаленному серверу, SQL, работа с таблицами:
-- [Чек-листы и тест-кейсы](https://docs.google.com/document/d/1RQE9z3w7fN6LlPeCk6w05pA30hQp86VMCh2E9zzxaSI/edit?usp=sharing).
+- [чек-листы и тест-кейсы](https://docs.google.com/document/d/1RQE9z3w7fN6LlPeCk6w05pA30hQp86VMCh2E9zzxaSI/edit?usp=sharing).
