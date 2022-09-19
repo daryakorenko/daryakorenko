@@ -2,7 +2,7 @@
 ### Ниже примеры моих учебных работ 
 
 Тестировала учебный сервис Яндекс Маршруты: логика расчёта времени и стоимости поездки, функциональность полей ввода. Визуализация требований с помощью mindmap и блок-схемы, тест-анализ, тест-дизайн, чек-листы и тест-кейсы, тестирование UI.
-Примеры чек-листов и тест-кейсов:  https://docs.google.com/spreadsheets/d/18ozlLJiPzSUOh3Sp4LqvxoTxugp4mWnM2lY-2iTDQvc/edit?usp=sharing
+[Примеры чек-листов и тест-кейсов] (https://docs.google.com/spreadsheets/d/18ozlLJiPzSUOh3Sp4LqvxoTxugp4mWnM2lY-2iTDQvc/edit?usp=sharing)
 
 Тестировала учебное веб-приложение Яндекс Маршруты: проверка верстки формы бронирования, проверка логики работы отдельных функциональностей, кроссбраузерное тестирование, баг-трекинг, Charles 
 https://docs.google.com/spreadsheets/d/1rBhoXWm32_9gay4B-ErCTZ3vZjzzm_SWBJt7BvovmlY/edit?usp=sharing
