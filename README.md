@@ -8,7 +8,7 @@
 
 Тестировала учебное веб-приложение Яндекс Маршруты
 
-- проверка верстки формы бронирования, проверка логики работы отдельных функциональностей, кроссбраузерное тестирование, баг-трекинг: - [чек-лист](https://docs.google.com/spreadsheets/d/1rBhoXWm32_9gay4B-ErCTZ3vZjzzm_SWBJt7BvovmlY/edit#gid=899462569), - [чек-лист](https://docs.google.com/spreadsheets/d/1rBhoXWm32_9gay4B-ErCTZ3vZjzzm_SWBJt7BvovmlY/edit#gid=1540435533), - [тест-кейс](https://docs.google.com/spreadsheets/d/1rBhoXWm32_9gay4B-ErCTZ3vZjzzm_SWBJt7BvovmlY/edit#gid=1567345705), - [тест-кейс](https://docs.google.com/spreadsheets/d/1rBhoXWm32_9gay4B-ErCTZ3vZjzzm_SWBJt7BvovmlY/edit#gid=94813143)
+ проверка верстки формы бронирования, проверка логики работы отдельных функциональностей, кроссбраузерное тестирование, баг-трекинг: - [чек-лист](https://docs.google.com/spreadsheets/d/1rBhoXWm32_9gay4B-ErCTZ3vZjzzm_SWBJt7BvovmlY/edit#gid=899462569), - [чек-лист](https://docs.google.com/spreadsheets/d/1rBhoXWm32_9gay4B-ErCTZ3vZjzzm_SWBJt7BvovmlY/edit#gid=1540435533), - [тест-кейс](https://docs.google.com/spreadsheets/d/1rBhoXWm32_9gay4B-ErCTZ3vZjzzm_SWBJt7BvovmlY/edit#gid=1567345705), - [тест-кейс](https://docs.google.com/spreadsheets/d/1rBhoXWm32_9gay4B-ErCTZ3vZjzzm_SWBJt7BvovmlY/edit#gid=94813143)
 
 Charles. 
 
